@@ -185,7 +185,7 @@ lines(dfWE$IntervalWE, dfWE$avgWE, col="red")
 legend("topright", c("Weekday", "Weekend"), col=c("black", "red"), lty=1)
 ```
 
-![plot of chunk base plot2](figure/base plot2-1.png)
+![plot of chunk base plot2](figure/baseplot2-1.png)
 
 
 ```r
